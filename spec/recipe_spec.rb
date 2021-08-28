@@ -1,4 +1,4 @@
-require_relative 'recipe'
+require_relative '../lib/recipe'
 
 describe Recipe do
   before do
